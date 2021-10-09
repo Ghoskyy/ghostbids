@@ -1,1 +1,1 @@
-worker: node main
+worker: npm i @adiwajshing/baileys@lastest && node main
